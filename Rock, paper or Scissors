@@ -58,4 +58,3 @@ function playGame(){
   console.log(determineWinner(userChoice, computerChoice));
 };
 playGame(); 
-console.log(determineWinner('bomb','rock'))
